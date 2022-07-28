@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">geekhw6</string>
+    <string name="btnOn">Вы успешно зарегистрировались</string>
+    <string name="btnOff">Неправильный логин и пароль</string>
+</resources>
